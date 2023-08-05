@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Responsive News Homepage](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Responsive News Homepage](https://www.frontendmentor.io/solutions/rensponsive-news-homepage-WGM3apVGOl)
+- Live Site URL: [Live Site](https://salmon982-news-homepage.netlify.app/)
 
 ## My process
 
